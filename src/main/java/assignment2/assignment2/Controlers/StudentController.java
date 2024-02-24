@@ -7,6 +7,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
+import assignment2.assignment2.Models.Student;
 import assignment2.assignment2.Services.StudentService;
 
 
